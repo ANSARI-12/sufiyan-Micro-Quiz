@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "questionText": "What is React?",
+        "options": ["A server-side framework", "A programming language", "A JavaScript library for building user interfaces", "A database management system"],
+        "correctAnswer": "A JavaScript library for building user interfaces"
+    },
+    {
+        "id": 2,
+        "questionText": "Which of the following is a way to handle events in React?",
+        "options": ["addEventListener", "onClick", "onEvent", "eventHandler"],
+        "correctAnswer": "onClick"
+    },
+    {
+        "id": 3,
+        "questionText": "What is JSX?",
+        "options": ["A special type of CSS", "A syntax extension for JavaScript", "A database query language", "A Node.js module"],
+        "correctAnswer": "A syntax extension for JavaScript"
+    },
+    {
+        "id": 4,
+        "questionText": "How do you create a React component?",
+        "options": ["Using a class or function", "Using an object", "Using a for loop", "Using an XML tag"],
+        "correctAnswer": "Using a class or function"
+    },
+    {
+        "id": 5,
+        "questionText": "Which hook is used to manage state in a functional component?",
+        "options": ["useEffect", "useContext", "useState", "useReducer"],
+        "correctAnswer": "useState"
+    }
+]
